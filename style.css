@@ -1,0 +1,50 @@
+/* Body Styling */
+
+body {
+    background-color: #FFE5D4; /* Soft Peach */
+    background-size: cover; /* Cover to fill the space */
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+
+/* Header Styling */
+header {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 50px 0;
+}
+
+header h1 {
+    font-size: 3em;
+    color: #f7f7f7;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #f7f7f7;
+}
+
+/* Container Styling */
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Delete Button Styling */
+.delete-btn {
+    background-color: #ff4d4d; /* Red background */
+    color: white; /* White text color */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 8px 12px; /* Padding */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth background color transition */
+    font-weight: bold; /* Bold text */
+}
+
+/* Hover effect for delete button */
+.delete-btn:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
