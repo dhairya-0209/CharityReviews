@@ -36,7 +36,7 @@
 ### 1. Access the Website
 
 Open a web browser and visit the live site:  
-[SatyaSachita - Charity Reviews](https://dhairya-0209.github.io/CharityReviews/)
+[SatyaSachita - Charity Reviews](https://dhairya-0209.github.io/SatyaSachita/)
 
 ### 2. Submit a Review
 
